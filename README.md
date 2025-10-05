@@ -1,5 +1,5 @@
 # KNN-Diabetes-Classifier
-A simple K-Nearest Neighbour (KNN) classifier model that predicts diabetes diagnosis based on patient data.
+A simple K-Nearest Neighbour (KNN) classifier model that predicts diabetes diagnosis based on patient data found on kaggle.
 The model predicts diabetes diagnosis and displays 1 if yes 0 if no
 
 The goal of this model is to use the KNN algorithm to classify patients as diabetic or non-diabetic using features such as:
@@ -40,3 +40,6 @@ Evaluation:
 Visualization:
 - Plotted accuracy vs. K to visualize model performance.
 - Age distribution histogram
+
+Kaggle link = https://www.kaggle.com/datasets/mohankrishnathalla/diabetes-health-indicators-dataset
+By Elfa Alata
